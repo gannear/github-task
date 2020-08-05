@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+  }
+
+.listItem {
+    list-style-type: none;
+    border: 1px solid #f9e5ad;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f7e8bc70;
+  }
+  .listItemInner {
+    list-style-type: none;
+    border: 1px solid #f9e5ad;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #d3d1ca70;
+  }
+  .btnStyle  {
+    background-color: #008000;
+    border-radius: 8px;
+    color:#e8eee8;
+    margin-top:20px;
+    width:200px;
+    height: 50px;
+    margin-right:30px;
+  }
